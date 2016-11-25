@@ -1,0 +1,7 @@
+"Je hebt weer 3 levens"
+
+"Het spel wordt gereset. Om een korte uitleg te krijgen druk nogmaals op deze knop"
+
+"Welkom bij dr. Flipper! Voor een korte uitleg druk nogmaals op deze knop en anders veel plezier!"
+
+"Om te beginnen moet je in het hart schieten. Er zal dan een interessant verhaaltje worden verteld en een vraag worden gesteld. Het antwoord op die vraag is het volgende gat waar je in moet schieten."
